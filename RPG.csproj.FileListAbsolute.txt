@@ -1,4 +1,0 @@
-M:\A26\Algorithmie et programmation structurée\Projets\TP\RPG\RPG\obj\Debug\net10.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
-M:\A26\Algorithmie et programmation structurée\Projets\TP\RPG\RPG\obj\Debug\net10.0\RPG.AssemblyInfoInputs.cache
-M:\A26\Algorithmie et programmation structurée\Projets\TP\RPG\RPG\obj\Debug\net10.0\RPG.AssemblyInfo.cs
-M:\A26\Algorithmie et programmation structurée\Projets\TP\RPG\RPG\obj\Debug\net10.0\RPG.csproj.CoreCompileInputs.cache
